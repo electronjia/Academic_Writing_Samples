@@ -1,6 +1,11 @@
 # Academic_Writing_Samples
 MK's academic writing samples.
 
-The repository primarily contains my writing samples completed in undergaduate studies and serve a purpose of showing my technical and writing skills. These writing samples either originated from research proposals or from experiments performed.
+The repository primarily contains my writing samples completed in undergraduate studies and shows my technical and writing skills. These writing samples originated from research proposal, meta analysis, or experiments performed where a report or presentation was generated.
 
-Please contact me for professional writing samples.
+Sophisticated read:
+Report_PhotoacousticTomographyForBrainImaging.pdf
+ResearchProposal_ApplicationOfPhotoAcousticTomographyForFunctionalNeuroimaging.pdf
+
+
+Please get in touch with me for professional writing samples.
